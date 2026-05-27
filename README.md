@@ -208,19 +208,5 @@ http://127.0.0.1:5173
 - 车辆租赁业务建模
 - 图片上传与静态资源映射
 
-## 发布到 GitHub 前建议
 
-- 补一组页面截图放进 `README`
-- 在仓库 About 区填写中英文描述
-- 添加 Topics，例如：
-  - `vue3`
-  - `spring-boot`
-  - `mybatis-plus`
-  - `mysql`
-  - `jwt`
-  - `rental-system`
-  - `graduation-project`
 
-## License
-
-当前仓库未附带开源许可证。如果你准备公开发布，建议补一个常见许可证，例如 MIT。
